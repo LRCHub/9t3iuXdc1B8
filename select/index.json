@@ -1,0 +1,40 @@
+{
+  "version": 1,
+  "base_track": "こちらハッピー探検隊",
+  "base_artist": "≠ME",
+  "createdAt": "2025-12-10T14:33:24.954433Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "こちらハッピー探検隊",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/01_こちらハッピー探検隊_≠ME.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "こちらハッピー探検隊 (off vocal ver.)",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/02_こちらハッピー探検隊_(off_vocal_ver.)_≠ME.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "こちらハッピー探検隊",
+      "artist": "Not Equal Me",
+      "has_synced": false,
+      "path": "select/03_こちらハッピー探検隊_Not_Equal_Me.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "こちらハッピー探検隊",
+      "artist": "≠ME",
+      "has_synced": false,
+      "path": "select/pl_01_こちらハッピー探検隊_≠ME.txt"
+    }
+  ]
+}
